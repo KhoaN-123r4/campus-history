@@ -3,7 +3,7 @@
 title: Centennial Library
 author: Khoa N
 category: Student Resource                  # change to a category from the student guide
-header-image: Library - Centennial Science and Information - above-ground entrance   # the filename of your own image
+header-image: Library - Centennial Science and Information - above-ground entrance.jpg   # the filename of your own image
 header-caption: New Mexico Digital Archive
 
 # Fill these in later, once your research is under way.
