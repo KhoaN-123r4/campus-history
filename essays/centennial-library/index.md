@@ -14,6 +14,12 @@ start:                                   # the year your story begins, shown on 
 layout: essay
 ---
 
+This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
+
+Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
+
+## Main Story
+
 The Centennial Science and Engineering Library (CSEL) at the University of New Mexico in Albuquerque has served students, faculty, and researchers in science, engineering, and mathematics since the mid-1980s. Its history reflects the changing role of academic libraries, from providing specialized books and printed journals to supporting computer-based learning, digital research, and interdisciplinary collaboration.
 Origins and early development, 1985–1996
 The library’s origins date to approximately 1985–1986. The University of New Mexico’s Department of Electrical and Computer Engineering reports that its new building was completed in 1986, with the library occupying part of the building’s two-story underground area. The department marked the building’s completion with a ribbon-cutting ceremony that used a laser. Although these records establish the library’s approximate beginnings, they do not provide an exact opening date.
@@ -33,11 +39,6 @@ Later that year, construction crews renovating Centennial to accommodate a new M
 A more recent addition combined the library’s academic mission with student creativity. On September 7, 2023, UNM presented a hallway mural by Esther Elia, a recent graduate of its Master of Fine Arts program. Selected through an open call to UNM student artists, Elia’s design draws on Assyrian, New Mexican, and Iranian cultural influences. The project added a public work of art to the library’s lower level.
 
 Today, Centennial continues to provide collections in science, engineering, and mathematics, alongside maps, anatomical models, and reservable study rooms. Its history shows how a specialized university library has adapted to changing research technologies while continuing to support learning and discovery.
-## Main Story
-
-Use this section to tell the most important part of the history. Keep paragraphs short enough for online reading. A good paragraph usually develops one idea, source, moment, or change over time.
-
-Use specific evidence from the archive. Name dates, people, places, decisions, conflicts, renovations, controversies, or missing records when they matter. The goal is not just to list facts. The goal is to explain what those facts reveal about UNM and its history.
 
 <!-- Full-width figure. This is the default for any landscape photo wider than about 700px.
      image-path is just the filename: upload your images into this essay's folder,
