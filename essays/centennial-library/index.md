@@ -7,18 +7,16 @@ header-image: Library - Centennial Science and Information - above-ground entran
 header-caption: New Mexico Digital Archive
 
 # Fill these in later, once your research is under way.
-card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
-start:                                   # the year your story begins, shown on the map
+card-description: The upbringing of Centennial Library, and why people still use it today.
+start: 1988                                  # the year your story begins, shown on the map
 
 # Leave this line as it is.
 layout: essay
 ---
 
-This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
+Whether it be downtime before classes or a place you need to study. Centennial Library is used by many students everyday. But why is that? You walk around many buildings on campus on a weekly basis and maybe you do or don't wonder on their history and why it was even there. The point of Centennial Library to many, is that it's just a place that's ease of use to meet, to study, to relax, and maybe even lecture.
 
-Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
-
-## Main Story
+## The Grand Opening
 
 The Centennial Science and Engineering Library (CSEL) at the University of New Mexico in Albuquerque has served students, faculty, and researchers in science, engineering, and mathematics since the mid-1980s. Its history reflects the changing role of academic libraries, from providing specialized books and printed journals to supporting computer-based learning, digital research, and interdisciplinary collaboration.
 Origins and early development, 1985–1996
