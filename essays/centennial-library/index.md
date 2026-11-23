@@ -7,7 +7,7 @@ header-image: Library - Centennial Science and Information - above-ground entran
 header-caption: New Mexico Digital Archive
 
 # Fill these in later, once your research is under way.
-card-description: Centennial Library is a staple place for students to study, research and get specific material regarding Engineering. It still used today by many students, helping in the aid of creating new Scholars of their field.
+card-description: Centennial Library is a staple place for students to study, research and get specific material regarding Engineering. It is still used today by many students, helping in the aid of creating new Scholars of their field.
 start: 1988                                  # the year your story begins, shown on the map
 
 # Leave this line as it is.
